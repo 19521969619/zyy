@@ -8,3 +8,4 @@
 - [相伴时光.png](https://raw.githubusercontent.com/19521969619/zyy/main/相伴时光.png)
 - [确定关系.jpg](https://raw.githubusercontent.com/19521969619/zyy/main/确定关系.jpg)
 - [第一个月.jpg](https://raw.githubusercontent.com/19521969619/zyy/main/第一个月.jpg)
+- [初次相遇.jpg](https://raw.githubusercontent.com/19521969619/zyy/main/初次相遇.jpg)
